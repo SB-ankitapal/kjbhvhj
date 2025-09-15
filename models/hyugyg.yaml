@@ -1,0 +1,31 @@
+title: hyugyg
+x-stoplight:
+  id: gshsz0f3416ou
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: 0tlwdf5kizka2
+  dfhurf:
+    type: array
+    x-stoplight:
+      id: jzys74ybo05n5
+    items: {}
+  efef:
+    type: array
+    x-stoplight:
+      id: lfoput291p40u
+    items:
+      x-stoplight:
+        id: zmh2yl0ymbxdb
+      type: array
+      items:
+        x-stoplight:
+          id: o1xgiwk9t4em3
+        type: array
+        items:
+          x-stoplight:
+            id: q7byu72mrufzs
+          type: string
+          format: binary
