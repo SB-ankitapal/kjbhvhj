@@ -2,6 +2,7 @@ title: hyugyg
 x-stoplight:
   id: gshsz0f3416ou
 type: object
+description: model123
 properties:
   id:
     type: string
@@ -29,3 +30,36 @@ properties:
             id: q7byu72mrufzs
           type: string
           format: binary
+  kjhkj:
+    x-stoplight:
+      id: rpj4tdt5nbogi
+    allOf:
+      - x-stoplight:
+          id: izx7rjtb0iecu
+        properties:
+          ngg:
+            type: string
+            x-stoplight:
+              id: qyi63fsmvye6d
+          nhjh:
+            type: array
+            x-stoplight:
+              id: lodqopgx5q0vo
+            items:
+              x-stoplight:
+                id: ykoak17u0ej8a
+              type: array
+              items:
+                x-stoplight:
+                  id: sniklme6gnr7y
+                type: array
+                items:
+                  x-stoplight:
+                    id: ftrcxnlbi4gas
+                  type: array
+                  items:
+                    x-stoplight:
+                      id: lkdq2a509b3gz
+                    type: string
+                    format: binary
+    type: object
